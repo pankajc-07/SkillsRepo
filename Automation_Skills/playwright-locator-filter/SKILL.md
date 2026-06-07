@@ -2,8 +2,8 @@
 name: Playwright Locator filter & Visibility
 description: Teaches the agent to build resilient Playwright locators with .filter (hasText/has/hasNot), narrow lists, and reason correctly about visibility, waitFor states, and timeouts.
 version: 1.0.0
-author: thetestingacademy
-license: MIT
+author: pankajChute
+license: NA
 tags: [playwright, locator, filter, visibility, waitfor, hastext, resilient-locators, auto-wait]
 testingTypes: [e2e, integration]
 frameworks: [playwright]

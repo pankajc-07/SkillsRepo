@@ -2,8 +2,8 @@
 name: "Playwright CLI Automation"
 description: "CLI-first browser automation using Playwright CLI for navigation, form filling, snapshots, screenshots, data extraction, and UI-flow debugging from the terminal."
 version: 1.0.0
-author: openai
-license: MIT
+author: pankajChute
+license: NA
 tags: [playwright, cli, browser, automation, snapshot, screenshot]
 testingTypes: [e2e, integration]
 frameworks: [playwright]

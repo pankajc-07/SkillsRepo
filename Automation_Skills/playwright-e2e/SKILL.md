@@ -2,8 +2,8 @@
 name: Playwright E2E Testing
 description: Comprehensive end-to-end testing skill using Playwright for web applications, covering page objects, selectors, assertions, waits, fixtures, and test organization.
 version: 1.0.0
-author: thetestingacademy
-license: MIT
+author: pankajChute
+license: NA
 tags: [playwright, e2e, visual, web-testing, automation, browser-testing]
 testingTypes: [e2e, visual]
 frameworks: [playwright]

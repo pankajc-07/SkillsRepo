@@ -2,8 +2,8 @@
 name: Playwright Multi-Tab & Window Handling
 description: Teaches the agent to handle popups, new tabs, and multiple browser windows in Playwright using waitForEvent('page'), context pages, and reliable tab switching for OAuth and target=_blank links.
 version: 1.0.0
-author: thetestingacademy
-license: MIT
+author: pankajChute
+license: NA
 tags: [playwright, multi-tab, popup, new-window, oauth, browser-context, target-blank, automation]
 testingTypes: [e2e, integration]
 frameworks: [playwright]

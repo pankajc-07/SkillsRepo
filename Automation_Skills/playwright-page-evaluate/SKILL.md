@@ -2,8 +2,8 @@
 name: Playwright page.evaluate Patterns
 description: Teaches the agent when and how to use page.evaluate, evaluateHandle, and exposeFunction in Playwright — passing arguments safely, reading DOM/JS state, and why locators should be preferred for actions.
 version: 1.0.0
-author: thetestingacademy
-license: MIT
+author: pankajChute
+license: NA
 tags: [playwright, evaluate, evaluatehandle, exposefunction, dom, javascript, jshandle, browser-context]
 testingTypes: [e2e, integration]
 frameworks: [playwright]
