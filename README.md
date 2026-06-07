@@ -5,18 +5,19 @@ A comprehensive collection of testing and automation skills covering various met
 ## Directory Structure
 
 ```
-AutomationSkills/
-├── BDD_Cucumber/
+Automation_Skills/
+├── BDD/
 │   └── SKILL.md
+├── Playwright/
 └── [Additional skills to be added]
 ```
 
 ## Skills Included
 
-### BDD/Cucumber Patterns
-Located in `AutomationSkills/BDD_Cucumber/SKILL.md`
+### 1. BDD/Cucumber Patterns
+Located in `Automation_Skills/BDD/SKILL.md`
 
-This skill provides comprehensive guidance on Behavior-Driven Development (BDD) with Cucumber, including:
+Comprehensive guidance on Behavior-Driven Development (BDD) with Cucumber, including:
 
 - Feature files and Gherkin syntax
 - Step definitions and best practices
@@ -25,16 +26,21 @@ This skill provides comprehensive guidance on Behavior-Driven Development (BDD) 
 - Integration with TypeScript and Java
 - Support for web and API testing domains
 
+### 2. Playwright Automation
+Located in `Automation_Skills/Playwright/`
+
+Automation testing skills using the Playwright framework.
+
 ## Technologies
 
-- **Frameworks**: Cucumber, and more
+- **Frameworks**: Cucumber, Playwright, and more
 - **Languages**: TypeScript, Java
-- **Testing Types**: BDD, E2E
+- **Testing Types**: BDD, E2E, API Testing
 - **Domains**: Web, API
 
 ## How to Use
 
-1. Navigate to the specific skill folder (e.g., `AutomationSkills/BDD_Cucumber/`)
+1. Navigate to the specific skill folder (e.g., `Automation_Skills/BDD/`)
 2. Open the `SKILL.md` file for detailed instructions and best practices
 3. Follow the guidelines for implementing patterns in your projects
 

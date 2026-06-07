@@ -2,7 +2,7 @@
 name: BDD/Cucumber Patterns
 description: Behavior-Driven Development skill using Cucumber, covering feature files, step definitions, Gherkin best practices, data tables, scenario outlines, and hooks.
 version: 1.0.0
-author: pankaj
+author: pankajChute
 license: NA
 tags: [bdd, cucumber, gherkin, feature-files, step-definitions, behavior-driven]
 testingTypes: [bdd, e2e]
