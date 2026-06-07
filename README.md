@@ -9,6 +9,9 @@ Automation_Skills/
 ├── BDD/
 │   └── SKILL.md
 ├── Playwright/
+│   └── [playwright examples]
+├── playwright-test-step/
+│   └── SKILL.md
 └── [Additional skills to be added]
 ```
 
@@ -28,6 +31,9 @@ Comprehensive guidance on Behavior-Driven Development (BDD) with Cucumber, inclu
 
 ### 2. Playwright Automation
 Located in `Automation_Skills/Playwright/`
+
+- `Automation_Skills/Playwright/` - general Playwright examples and helpers
+- `Automation_Skills/playwright-test-step/SKILL.md` - `test.step` and reporting patterns (attachments, annotations, soft assertions)
 
 Automation testing skills using the Playwright framework.
 
